@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/fitness-log"
 summary: Personal fitness and health log with exercises, routines with progression, set logging, records, body measurements, food logging with macros, charts and private data export.
 license: CC-BY-4.0
+tags: [personal, health]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/privacy": "^0.1.0"
